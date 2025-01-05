@@ -76,3 +76,6 @@ The Bank Analytics Dashboard enables the bank to
 3.Identify risk areas through demographic and repayment analysis.
 
 4.Improve decision-making with clear, visualized insights into loan data.
+![Dash_img_2](https://github.com/user-attachments/assets/0b8f8bef-439d-4e6e-ab8c-f7857fe6dd4d)
+![Dash_img](https://github.com/user-attachments/assets/db77cc1a-6dec-4046-bcaf-94cd854e49e8)
+
