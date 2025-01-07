@@ -43,10 +43,8 @@ Bank Analytics Dashboard-
   
   6.State-wise Recoveries Visualization: Map chart visualizes recovery amounts across different states.
 
-*Tools and Technologies Used
+*Tools and Technologies Used-
 
-  SQL: For querying and manipulating data before importing it into Power BI.
-  
   Excel: For initial data preparation and storage.
   
   Power BI: For building the interactive dashboard.
